@@ -25,6 +25,19 @@
 			"requires": [ "docker" ],
 			"created": "2026-01-01",
 			"modified": "2026-01-06"
+		},
+		{
+			"id": "UNICodehORN/xyplug-on-holiday",
+			"title": "On Holiday",
+			"author": "UNICodehORN",
+			"description": "Skip or execute xyOps schedules on public holidays using OpenHolidaysAPI.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"license": "MIT",
+			"tags": ["holiday", "christmas", "easter"],
+			"requires": ["uvx"],
+			"created": "2026-01-07",
+			"modified": "2026-01-07"
 		}
 	]
 }
