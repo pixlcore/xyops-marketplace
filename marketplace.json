@@ -29,6 +29,20 @@
 			"modified": "2026-01-06"
 		},
 		{
+			"id": "pixlcore/xyplug-ai",
+			"title": "AI Prompt",
+			"author": "PixlCore",
+			"description": "An AI plugin which lets you prompt any AI provider and LLM, including local models, and return the result.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["AI", "Prompt"],
+			"requires": [ "npx", "git" ],
+			"created": "2026-01-10",
+			"modified": "2026-01-10"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
