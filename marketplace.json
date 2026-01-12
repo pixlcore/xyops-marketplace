@@ -47,7 +47,7 @@
 			"title": "Extract Anything",
 			"author": "PixlCore",
 			"description": "Extract structured data out of any file, using the amazing Kreuzberg library.",
-			"versions": ["v1.0.1"],
+			"versions": ["v1.0.2", "v1.0.1"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
