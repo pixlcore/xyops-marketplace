@@ -5,7 +5,7 @@
 			"title": "Bluesky Social",
 			"author": "PixlCore",
 			"description": "Access your Bluesky social profile, read your timeline, make posts, leave likes, and more.",
-			"versions": ["v1.0.4", "v1.0.3"],
+			"versions": ["v1.0.5", "v1.0.4", "v1.0.3"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
