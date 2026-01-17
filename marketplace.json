@@ -33,7 +33,7 @@
 			"title": "AI Generation",
 			"author": "PixlCore",
 			"description": "An AI plugin which lets you prompt any AI provider and LLM, including local models, and return the result.",
-			"versions": ["v1.0.6", "v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.7", "v1.0.6", "v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
