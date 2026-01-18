@@ -71,6 +71,20 @@
 			"modified": "2026-01-11"
 		},
 		{
+			"id": "pixlcore/xyplug-replicate",
+			"title": "Replicate AI",
+			"author": "PixlCore",
+			"description": "Generate high-quality AI images, video, or audio using the Replicate API.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["AI", "Replicate"],
+			"requires": [ "npx", "git" ],
+			"created": "2026-01-17",
+			"modified": "2026-01-17"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
