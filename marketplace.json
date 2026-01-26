@@ -117,7 +117,7 @@
 			"title": "PowerShell Plugin",
 			"author": "Nick Dollimount",
 			"description": "Execute PowerShell script code using xyOps events.",
-			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.3", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
