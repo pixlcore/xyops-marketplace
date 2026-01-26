@@ -47,14 +47,14 @@
 			"title": "Extract Anything",
 			"author": "PixlCore",
 			"description": "Extract structured data out of any file, using the amazing Kreuzberg library.",
-			"versions": ["v2.0.1", "v1.0.2", "v1.0.1"],
+			"versions": ["v2.0.3", "v2.0.2", "v2.0.1", "v1.0.2", "v1.0.1"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Extract", "OCR", "Kreuzberg"],
 			"requires": [ "docker" ],
 			"created": "2026-01-11",
-			"modified": "2026-01-23"
+			"modified": "2026-01-26"
 		},
 		{
 			"id": "pixlcore/xyplug-weather",
