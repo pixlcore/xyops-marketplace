@@ -125,6 +125,34 @@
 			"requires": [ "powershell" ],
 			"created": "2026-01-18",
 			"modified": "2026-01-31"
+		},
+		{
+			"id": "talder/xyOps-MSSQL-Query",
+			"title": "MSSQL Query",
+			"author": "Tim Alderweireldt",
+			"description": "Execute SQL queries against Microsoft SQL Server databases using PowerShell and dbatools. Supports encrypted connections, certificate validation, CSV/JSON export, and automatic row limiting.",
+			"versions": ["v1.0.1"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["MSSQL", "SQL Server", "Database", "Query", "PowerShell", "dbatools"],
+			"requires": ["pwsh"],
+			"created": "2026-01-31",
+			"modified": "2026-01-31"
+		},
+		{
+			"id": "talder/xyOps-MSSQL-Information",
+			"title": "MSSQL Information",
+			"author": "Tim Alderweireldt",
+			"description": "Collect comprehensive information from Microsoft SQL Server instances including server details, Availability Groups, database inventory, and user accounts. Outputs multiple tables and structured JSON for workflows.",
+			"versions": ["v1.0.1"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["MSSQL", "SQL Server", "Database", "Inventory", "Monitoring", "Availability Groups", "PowerShell", "dbatools"],
+			"requires": ["pwsh"],
+			"created": "2026-01-31",
+			"modified": "2026-01-31"
 		}
 	]
 }
