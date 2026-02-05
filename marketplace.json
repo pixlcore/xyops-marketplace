@@ -153,6 +153,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-01-31",
 			"modified": "2026-01-31"
+		},
+		{
+			"id": "talder/xyOps-VMware-VM",
+			"title": "VMware VM Operations",
+			"author": "Tim Alderweireldt",
+			"description": "Perform operations on VMware virtual machines such as powering on/off, taking snapshots, and retrieving VM information.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["VMware", "Virtual Machine"],
+			"requires": ["pwsh"],
+			"created": "2026-02-03",
+			"modified": "2026-02-03"
 		}
 	]
 }
