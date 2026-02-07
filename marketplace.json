@@ -167,6 +167,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-03",
 			"modified": "2026-02-03"
+		},
+		{
+			"id": "talder/xyOps-MSSQL-HealthCheck",
+			"title": "MSSQL Health Check",
+			"author": "Tim Alderweireldt",
+			"description": "Perform comprehensive health checks on Microsoft SQL Server instances.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["MSSQL", "SQL Server", "Database", "Health Check", "Monitoring", "PowerShell", "dbatools"],
+			"requires": ["pwsh"],
+			"created": "2026-02-06",
+			"modified": "2026-02-06"
 		}
 	]
 }
