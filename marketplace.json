@@ -195,6 +195,20 @@
 			"requires": ["npx", "git"],
 			"created": "2026-02-07",
 			"modified": "2026-02-08"
+		},
+		{
+			"id": "talder/xyops-toolbox",
+			"title": "Toolbox",
+			"author": "Tim Alderweireldt",
+			"description": "A versatile xyOps Event Plugin containing a collection of utility tools for generating tokens, UUIDs, hashes, QR codes, ASCII art, validating IBANs, and generating secure passphrases.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Utility", "Tools"],
+			"requires": ["npx", "git"],
+			"created": "2026-02-08",
+			"modified": "2026-02-09"
 		}
 	]
 }
