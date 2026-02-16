@@ -200,15 +200,43 @@
 			"id": "talder/xyops-toolbox",
 			"title": "Toolbox",
 			"author": "Tim Alderweireldt",
-			"description": "A versatile xyOps Event Plugin containing a collection of utility tools for generating tokens, UUIDs, hashes, QR codes, ASCII art, validating IBANs, and generating secure passphrases.",
-			"versions": ["v1.0.0"],
+			"description": "A versatile xyOps Event Plugin containing a collection of utility tools for generating tokens, UUIDs, hashes, QR codes, validating IBANs, and generating secure passphrases.",
+			"versions": ["v2.3.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Utility", "Tools"],
-			"requires": ["npx", "git"],
+			"requires": ["pwsh"],
 			"created": "2026-02-08",
-			"modified": "2026-02-09"
+			"modified": "2026-02-16"
+		},
+		{
+			"id": "talder/xyOps-healthcare",
+			"title": "Healthcare",
+			"author": "Tim Alderweireldt",
+			"description": "An xyOps Event Plugin for healthcare interoperability, providing HL7 v2.5.1 message generation and parsing tools.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Healthcare", "HL7", "Interoperability"],
+			"requires": ["pwsh"],
+			"created": "2026-02-16",
+			"modified": "2026-02-16"
+		},
+		{
+			"id": "talder/xyOps-network",
+			"title": "Network utilities",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive xyOps Event Plugin containing 23 network diagnostic and analysis tools for network testing, DNS resolution, certificate checking, email security validation, SMTP testing, and more.",
+			"versions": ["v1.3.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Network", "Utilities", "Diagnostics"],
+			"requires": ["pwsh"],
+			"created": "2026-02-16",
+			"modified": "2026-02-16"
 		}
 	]
 }
