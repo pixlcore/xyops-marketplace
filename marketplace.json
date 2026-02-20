@@ -265,6 +265,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-17",
 			"modified": "2026-02-17"
+		},
+		{
+			"id": "talder/xyOps-Netbox-IPAM",
+			"title": "Netbox IPAM",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive xyOps Event Plugin for managing IP Address Management (IPAM) in NetBox, including Prefixes, IP Addresses, VLANs, and VRFs.",
+			"versions": ["v1.3.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["NetBox", "IPAM", "Network Automation"],
+			"requires": ["pwsh"],
+			"created": "2026-02-20",
+			"modified": "2026-02-20"
 		}
 	]
 }
