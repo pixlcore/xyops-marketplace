@@ -243,14 +243,14 @@
 			"title": "Confluence Publisher",
 			"author": "Tim Alderweireldt",
 			"description": "A powerful xyOps Action Plugin that publishes Markdown content to Confluence Cloud pages with automatic ADF (Atlassian Document Format) conversion and image upload support.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.2.2"],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
 			"tags": ["Confluence", "Atlassian", "Documentation"],
 			"requires": ["pwsh"],
 			"created": "2026-02-17",
-			"modified": "2026-02-17"
+			"modified": "2026-02-20"
 		},
 		{
 			"id": "talder/xyOps-ToSyslog",
