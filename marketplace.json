@@ -313,7 +313,7 @@
 			"title": "FTP Download",
 			"author": "Tim Alderweireldt",
 			"description": "Download files from remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), or **SFTP** (SSH).",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
