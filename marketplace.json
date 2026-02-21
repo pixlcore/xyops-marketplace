@@ -307,6 +307,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
+		},
+		{
+			"id": "talder/xyOps-FTP-Download",
+			"title": "FTP Download",
+			"author": "Tim Alderweireldt",
+			"description": "Download files from remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), or **SFTP** (SSH).",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["FTP", "FTPS", "SFTP", "File Transfer"],
+			"requires": ["pwsh"],
+			"created": "2026-02-21",
+			"modified": "2026-02-21"
 		}
 	]
 }
