@@ -279,6 +279,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-20",
 			"modified": "2026-02-20"
+		},
+		{
+			"id": "talder/xyOps-Netbox-DCIM",
+			"title": "Netbox DCIM",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive xyOps Event Plugin for managing Data Center Infrastructure Management (DCIM) in NetBox, including Devices, Device Types, Sites, Racks, and more.",
+			"versions": ["v1.3.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["NetBox", "DCIM", "Network Automation"],
+			"requires": ["pwsh"],
+			"created": "2026-02-21",
+			"modified": "2026-02-21"
 		}
 	]
 }
