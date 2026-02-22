@@ -405,6 +405,34 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
+		},
+		{
+			"id": "talder/xyOps-AD-Structure",
+			"title": "Active Directory Structure",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive **toolset** for Active Directory OU and structure management.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Active Directory", "AD", "OU", "Structure Management"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-22"
+		},
+		{
+			"id": "talder/xyOps-Mirth-Socket",
+			"title": "Mirth Socket",
+			"author": "Tim Alderweireldt",
+			"description": "Send HL7, JSON, or text data to a Mirth Connect server over TCP using the MLLP (Minimum Lower Layer Protocol) framing protocol.",
+			"versions": ["v1.1.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Mirth", "MLLP", "HL7", "TCP"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-22"
 		}
 	]
 }
