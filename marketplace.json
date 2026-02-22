@@ -349,6 +349,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
+		},
+		{
+			"id": "talder/xyOps-Windows-DHCP",
+			"title": "Windows DHCP",
+			"author": "Tim Alderweireldt",
+			"description": "Manage Microsoft Windows DHCP Server directly from xyOps.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Windows DHCP", "DHCP Management", "Network Automation"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-22"
 		}
 	]
 }
