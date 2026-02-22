@@ -377,6 +377,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
+		},
+		{
+			"id": "talder/xyOps-AD-Info",
+			"title": "Active Directory Info",
+			"author": "Tim Alderweireldt",
+			"description": "A comprehensive toolset for Active Directory queries and reporting.",
+			"versions": ["v3.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Active Directory", "AD", "Reporting", "Queries"],
+			"requires": ["pwsh"],
+			"created": "2026-02-22",
+			"modified": "2026-02-22"
 		}
 	]
 }
