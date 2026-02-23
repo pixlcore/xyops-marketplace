@@ -131,14 +131,14 @@
 			"title": "Join Notification",
 			"author": "Nick Dollimount",
 			"description": "Sends a notification to your device via the Join API.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1","v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
 			"tags": ["PowerShell","Join"],
 			"requires": ["powershell"],
 			"created": "2026-02-22",
-			"modified": "2026-02-22"
+			"modified": "2026-02-23"
 		},
 		{
 			"id": "talder/xyOps-MSSQL-Query",
