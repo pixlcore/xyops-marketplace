@@ -138,7 +138,7 @@
 			"tags": ["PowerShell","Join"],
 			"requires": ["powershell"],
 			"created": "2026-02-22",
-			"modified": "2026-02-22"
+			"modified": "2026-02-23"
 		},
 		{
 			"id": "talder/xyOps-MSSQL-Query",
