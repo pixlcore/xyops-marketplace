@@ -141,6 +141,20 @@
 			"modified": "2026-02-22"
 		},
 		{
+			"id": "nickdollimount/xyplug-pushover-notification",
+			"title": "Pushover Notification",
+			"author": "Nick Dollimount",
+			"description": "Sends a notification to your device via the Pushover API.",
+			"versions": ["v1.0.1"],
+			"type": "plugin",
+			"plugin_type": "action",
+			"license": "MIT",
+			"tags": ["PowerShell","Pushover"],
+			"requires": ["powershell"],
+			"created": "2026-02-23",
+			"modified": "2026-02-23"
+		},
+		{
 			"id": "talder/xyOps-MSSQL-Query",
 			"title": "MSSQL Query",
 			"author": "Tim Alderweireldt",
