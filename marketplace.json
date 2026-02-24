@@ -467,7 +467,7 @@
 			"title": "Active Directory Groups",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive toolset for Active Directory group management.  Create, update, delete, and list groups, manage group memberships, and more.",
-			"versions": ["v1.0.1"],
+			"versions": ["v1.0.2"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
@@ -489,6 +489,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-22",
 			"modified": "2026-02-23"
+		},
+		{
+			"id": "talder/xyOps-Veeam",
+			"title": "Veeam Backup Status",
+			"author": "Tim Alderweireldt",
+			"description": "A event plugin for monitoring Veeam Backup & Replication job status.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Veeam", "Backup", "Monitoring"],
+			"requires": ["pwsh"],
+			"created": "2026-02-24",
+			"modified": "2026-02-24"
 		}
 	]
 }
