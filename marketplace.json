@@ -503,6 +503,20 @@
 			"requires": ["pwsh"],
 			"created": "2026-02-24",
 			"modified": "2026-02-24"
+		},
+		{
+			"id": "talder/xyOps-Git",
+			"title": "xyOps Git",
+			"author": "Tim Alderweireldt",
+			"description": "Pull and push Git repositories on/from the xyOps conductor server. This is an action plugin with an operation selector — use it to clone/pull repos to a local path, or stage, commit and push changes back to a remote.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "action",
+			"license": "MIT",
+			"tags": ["Git", "Version Control", "Repository Management"],
+			"requires": ["pwsh"],
+			"created": "2026-02-25",
+			"modified": "2026-02-25"
 		}
 	]
 }
