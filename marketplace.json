@@ -5,14 +5,14 @@
 			"title": "Bluesky Social",
 			"author": "PixlCore",
 			"description": "Access your Bluesky social profile, read your timeline, make posts, leave likes, and more.",
-			"versions": ["v1.0.6", "v1.0.5", "v1.0.4", "v1.0.3"],
+			"versions": ["v1.0.7", "v1.0.6", "v1.0.5", "v1.0.4", "v1.0.3"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Bluesky", "Social"],
-			"requires": [ "npx", "git" ],
+			"requires": [ "npx" ],
 			"created": "2026-01-01",
-			"modified": "2026-01-16"
+			"modified": "2026-03-04"
 		},
 		{
 			"id": "pixlcore/xyplug-stagehand",
@@ -33,14 +33,14 @@
 			"title": "AI Generation",
 			"author": "PixlCore",
 			"description": "An AI plugin which lets you prompt any AI provider and LLM, including local models, and return the result.",
-			"versions": ["v1.0.7", "v1.0.6", "v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.8", "v1.0.7", "v1.0.6", "v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["AI", "Prompt"],
-			"requires": [ "npx", "git" ],
+			"requires": [ "npx" ],
 			"created": "2026-01-10",
-			"modified": "2026-01-16"
+			"modified": "2026-03-04"
 		},
 		{
 			"id": "pixlcore/xyplug-extract",
@@ -61,28 +61,28 @@
 			"title": "Weather Forecast",
 			"author": "PixlCore",
 			"description": "Fetch current conditions and forecasts from the free Open-Meteo API.",
-			"versions": ["v1.0.2", "v1.0.1"],
+			"versions": ["v1.0.4", "v1.0.2", "v1.0.1"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Weather", "Forecast"],
-			"requires": [ "npx", "git" ],
+			"requires": [ "npx" ],
 			"created": "2026-01-11",
-			"modified": "2026-01-11"
+			"modified": "2026-03-04"
 		},
 		{
 			"id": "pixlcore/xyplug-replicate",
 			"title": "Replicate AI",
 			"author": "PixlCore",
 			"description": "Generate high-quality AI images, video, or audio using the Replicate API.",
-			"versions": ["v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["AI", "Replicate"],
-			"requires": [ "npx", "git" ],
+			"requires": [ "npx" ],
 			"created": "2026-01-17",
-			"modified": "2026-01-17"
+			"modified": "2026-03-04"
 		},
 		{
 			"id": "UNICodehORN/xyplug-on-holiday",
