@@ -103,7 +103,7 @@
 			"title": "S3 Toolbox",
 			"author": "PixlCore",
 			"description": "Upload, download, move, copy, list, grep, and delete your files in S3 buckets.",
-			"versions": ["v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
