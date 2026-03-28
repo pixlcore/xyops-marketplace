@@ -134,6 +134,25 @@
 			"modified": "2026-03-26"
 		},
 		{
+			"id": "pixlcore/xyplug-ssh",
+			"title": "Remote SSH",
+			"author": "PixlCore",
+			"description": "Run remote commands or shell scripts over SSH.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["SSH", "Shell"],
+			"requires": [ "npx" ],
+			"env": {
+				"SSH_PRIVATE_KEY": "",
+				"SSH_PASSPHRASE": "",
+				"SSH_PASSWORD": ""
+			},
+			"created": "2026-03-28",
+			"modified": "2026-03-28"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
