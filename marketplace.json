@@ -138,7 +138,7 @@
 			"title": "Remote SSH",
 			"author": "PixlCore",
 			"description": "Run remote commands or shell scripts over SSH.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
