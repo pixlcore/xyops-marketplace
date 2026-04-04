@@ -153,6 +153,23 @@
 			"modified": "2026-04-01"
 		},
 		{
+			"id": "pixlcore/xyplug-upgrade",
+			"title": "Auto Upgrade",
+			"author": "PixlCore",
+			"description": "Automatically send notifications for available xyOps / xySat upgrades, and optionally perform the upgrades too.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Upgrade", "System"],
+			"requires": [ "npx" ],
+			"env": {
+				"XYOPS_API_KEY": ""
+			},
+			"created": "2026-04-03",
+			"modified": "2026-04-03"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
