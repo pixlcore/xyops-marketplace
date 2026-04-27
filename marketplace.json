@@ -170,6 +170,20 @@
 			"modified": "2026-04-03"
 		},
 		{
+			"id": "pixlcore/xyplug-pkg",
+			"title": "Package Manager",
+			"author": "PixlCore",
+			"description": "Manage all your system packages using the excellent meta-package-manager project.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Upgrade", "System"],
+			"requires": [ "npx" ],
+			"created": "2026-04-27",
+			"modified": "2026-04-27"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
