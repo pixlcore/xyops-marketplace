@@ -89,7 +89,7 @@
 			"title": "Replicate AI",
 			"author": "PixlCore",
 			"description": "Generate high-quality AI images, video, or audio using the Replicate API.",
-			"versions": ["v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
@@ -99,7 +99,7 @@
 				"REPLICATE_API_TOKEN": ""
 			},
 			"created": "2026-01-17",
-			"modified": "2026-04-22"
+			"modified": "2026-04-28"
 		},
 		{
 			"id": "pixlcore/xyplug-whisper",
