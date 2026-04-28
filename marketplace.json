@@ -174,7 +174,7 @@
 			"title": "Package Manager",
 			"author": "PixlCore",
 			"description": "Manage all your system packages using the excellent meta-package-manager project.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
