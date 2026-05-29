@@ -229,6 +229,20 @@
 			"modified": "2026-05-25"
 		},
 		{
+			"id": "pixlcore/xyplug-ftp",
+			"title": "FTP Transfer",
+			"author": "PixlCore",
+			"description": "Upload, download, list, and delete files on FTP and FTPS servers.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["FTP", "FTPS"],
+			"requires": [ "npx" ],
+			"created": "2026-05-28",
+			"modified": "2026-05-28"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
