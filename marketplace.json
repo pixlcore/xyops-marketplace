@@ -205,14 +205,14 @@
 			"title": "Image Converter",
 			"author": "PixlCore",
 			"description": "Convert image formats, resize, crop, and add effects using the canvas-plus library.",
-			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Image", "Conversion"],
 			"requires": [ "docker" ],
 			"created": "2026-05-25",
-			"modified": "2026-06-21"
+			"modified": "2026-07-03"
 		},
 		{
 			"id": "pixlcore/xyplug-video",
