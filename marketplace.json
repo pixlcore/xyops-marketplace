@@ -219,14 +219,14 @@
 			"title": "Video Toolkit",
 			"author": "PixlCore",
 			"description": "Render, transform, mux, and transcode video files using FFmpeg and a JSON filter specification.",
-			"versions": ["v1.0.0"],
+			"versions": ["v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Video", "Conversion", "FFmpeg"],
 			"requires": [ "docker" ],
 			"created": "2026-05-25",
-			"modified": "2026-05-25"
+			"modified": "2026-07-03"
 		},
 		{
 			"id": "pixlcore/xyplug-ftp",
