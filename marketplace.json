@@ -288,6 +288,23 @@
 			"modified": "2026-06-30"
 		},
 		{
+			"id": "pixlcore/xyplug-imap-trigger",
+			"title": "IMAP Email Trigger",
+			"author": "PixlCore",
+			"description": "Watch an IMAP mailbox for matching email, launch jobs, and pass email data plus attachments to the job input.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "scheduler",
+			"license": "MIT",
+			"tags": ["IMAP", "Email"],
+			"requires": [ "npx" ],
+			"env": {
+				"IMAP_PASSWORD": ""
+			},
+			"created": "2026-07-09",
+			"modified": "2026-07-09"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
