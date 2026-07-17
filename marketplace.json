@@ -174,14 +174,14 @@
 			"title": "Package Manager",
 			"author": "PixlCore",
 			"description": "Manage all your system packages using the excellent meta-package-manager project.",
-			"versions": ["v1.0.6", "v1.0.5", "v1.0.4", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": ["v1.0.7", "v1.0.6", "v1.0.5", "v1.0.4", "v1.0.2", "v1.0.1", "v1.0.0"],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
 			"tags": ["Upgrade", "System"],
 			"requires": [],
 			"created": "2026-04-27",
-			"modified": "2026-07-09"
+			"modified": "2026-07-17"
 		},
 		{
 			"id": "pixlcore/xyplug-eleven",
