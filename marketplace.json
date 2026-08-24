@@ -305,6 +305,20 @@
 			"modified": "2026-07-09"
 		},
 		{
+			"id": "pixlcore/xyplug-logalert",
+			"title": "LogAlert",
+			"author": "PixlCore",
+			"description": "Watch local log files for new matching lines and route alerts through xyOps.",
+			"versions": ["v1.0.0"],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": ["Monitoring", "Alerting"],
+			"requires": [],
+			"created": "2026-08-23",
+			"modified": "2026-08-23"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
