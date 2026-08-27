@@ -5,12 +5,23 @@
 			"title": "Bluesky Social",
 			"author": "PixlCore",
 			"description": "Access your Bluesky social profile, read your timeline, make posts, leave likes, and more.",
-			"versions": ["v1.0.7", "v1.0.6", "v1.0.5", "v1.0.4", "v1.0.3"],
+			"versions": [
+				"v1.0.7",
+				"v1.0.6",
+				"v1.0.5",
+				"v1.0.4",
+				"v1.0.3"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Bluesky", "Social"],
-			"requires": [ "npx" ],
+			"tags": [
+				"Bluesky",
+				"Social"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"BLUESKY_IDENTIFIER": "",
 				"BLUESKY_APP_PASSWORD": "",
@@ -24,12 +35,30 @@
 			"title": "Stagehand",
 			"author": "PixlCore",
 			"description": "An AI-powered browser automation framework for xyOps.  Drive a headless browser with simple English instructions, take actions, extract data, capture network requests, and even record a video of the whole session.",
-			"versions": ["v1.0.20", "v1.0.19", "v1.0.18", "v1.0.17", "v1.0.16", "v1.0.15", "v1.0.14", "v1.0.13", "v1.0.12", "v1.0.11", "v1.0.10"],
+			"versions": [
+				"v1.0.20",
+				"v1.0.19",
+				"v1.0.18",
+				"v1.0.17",
+				"v1.0.16",
+				"v1.0.15",
+				"v1.0.14",
+				"v1.0.13",
+				"v1.0.12",
+				"v1.0.11",
+				"v1.0.10"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Stagehand", "Playwright", "Browser"],
-			"requires": [ "docker" ],
+			"tags": [
+				"Stagehand",
+				"Playwright",
+				"Browser"
+			],
+			"requires": [
+				"docker"
+			],
 			"env": {
 				"AI_API_KEY": ""
 			},
@@ -41,12 +70,28 @@
 			"title": "AI Generation",
 			"author": "PixlCore",
 			"description": "An AI plugin which lets you prompt any AI provider and LLM, including local models, and return the result.",
-			"versions": ["v1.0.10", "v1.0.9", "v1.0.8", "v1.0.7", "v1.0.6", "v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.10",
+				"v1.0.9",
+				"v1.0.8",
+				"v1.0.7",
+				"v1.0.6",
+				"v1.0.4",
+				"v1.0.3",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["AI", "Prompt"],
-			"requires": [ "npx" ],
+			"tags": [
+				"AI",
+				"Prompt"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"AI_API_KEY": ""
 			},
@@ -58,12 +103,27 @@
 			"title": "Extract Anything",
 			"author": "PixlCore",
 			"description": "Extract structured data out of any file, using the amazing Kreuzberg library.",
-			"versions": ["v2.0.6", "v2.0.5", "v2.0.4", "v2.0.3", "v2.0.2", "v2.0.1", "v1.0.2", "v1.0.1"],
+			"versions": [
+				"v2.0.6",
+				"v2.0.5",
+				"v2.0.4",
+				"v2.0.3",
+				"v2.0.2",
+				"v2.0.1",
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Extract", "OCR", "Kreuzberg"],
-			"requires": [ "docker" ],
+			"tags": [
+				"Extract",
+				"OCR",
+				"Kreuzberg"
+			],
+			"requires": [
+				"docker"
+			],
 			"created": "2026-01-11",
 			"modified": "2026-07-03"
 		},
@@ -72,12 +132,21 @@
 			"title": "Weather Forecast",
 			"author": "PixlCore",
 			"description": "Fetch current conditions and forecasts from the free Open-Meteo API.",
-			"versions": ["v1.0.4", "v1.0.2", "v1.0.1"],
+			"versions": [
+				"v1.0.4",
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Weather", "Forecast"],
-			"requires": [ "npx" ],
+			"tags": [
+				"Weather",
+				"Forecast"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"METEO_API_KEY": ""
 			},
@@ -89,12 +158,23 @@
 			"title": "Replicate AI",
 			"author": "PixlCore",
 			"description": "Generate high-quality AI images, video, or audio using the Replicate API.",
-			"versions": ["v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.4",
+				"v1.0.3",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["AI", "Replicate"],
-			"requires": [ "npx" ],
+			"tags": [
+				"AI",
+				"Replicate"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"REPLICATE_API_TOKEN": ""
 			},
@@ -106,12 +186,22 @@
 			"title": "Whisper Transcription",
 			"author": "PixlCore",
 			"description": "Transcribe audio files into text, subtitles, and structured JSON using whisper.cpp with a model baked directly into the Docker image.",
-			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["AI", "Whisper", "Transcription"],
-			"requires": [ "docker" ],
+			"tags": [
+				"AI",
+				"Whisper",
+				"Transcription"
+			],
+			"requires": [
+				"docker"
+			],
 			"created": "2026-03-25",
 			"modified": "2026-07-03"
 		},
@@ -120,12 +210,23 @@
 			"title": "S3 Toolbox",
 			"author": "PixlCore",
 			"description": "Upload, download, move, copy, list, grep, and delete your files in S3 buckets.",
-			"versions": ["v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.4",
+				"v1.0.3",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["S3", "AWS"],
-			"requires": [ "npx" ],
+			"tags": [
+				"S3",
+				"AWS"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"AWS_ACCESS_KEY_ID": "",
 				"AWS_SECRET_ACCESS_KEY": ""
@@ -138,12 +239,23 @@
 			"title": "Remote SSH",
 			"author": "PixlCore",
 			"description": "Run remote commands or shell scripts over SSH.",
-			"versions": ["v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.4",
+				"v1.0.3",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["SSH", "Shell"],
-			"requires": [ "npx" ],
+			"tags": [
+				"SSH",
+				"Shell"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"SSH_PRIVATE_KEY": "",
 				"SSH_PASSPHRASE": "",
@@ -157,11 +269,17 @@
 			"title": "Auto Upgrade",
 			"author": "PixlCore",
 			"description": "Automatically send notifications for available xyOps / xySat upgrades, and optionally perform the upgrades too.",
-			"versions": ["v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Upgrade", "System"],
+			"tags": [
+				"Upgrade",
+				"System"
+			],
 			"requires": [],
 			"env": {
 				"XYOPS_API_KEY": ""
@@ -174,11 +292,24 @@
 			"title": "Package Manager",
 			"author": "PixlCore",
 			"description": "Manage all your system packages using the excellent meta-package-manager project.",
-			"versions": ["v1.0.9", "v1.0.8", "v1.0.7", "v1.0.6", "v1.0.5", "v1.0.4", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.9",
+				"v1.0.8",
+				"v1.0.7",
+				"v1.0.6",
+				"v1.0.5",
+				"v1.0.4",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Upgrade", "System"],
+			"tags": [
+				"Upgrade",
+				"System"
+			],
 			"requires": [],
 			"created": "2026-04-27",
 			"modified": "2026-08-13"
@@ -188,12 +319,21 @@
 			"title": "ElevenLabs Audio",
 			"author": "PixlCore",
 			"description": "Generate speech, sound effects, music, voice conversions, isolated vocals, and speech transcripts using the ElevenLabs API.",
-			"versions": ["v1.0.2", "v1.0.1"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["AI", "Audio", "Speech"],
-			"requires": [ "npx" ],
+			"tags": [
+				"AI",
+				"Audio",
+				"Speech"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"ELEVENLABS_API_KEY": ""
 			},
@@ -205,12 +345,23 @@
 			"title": "Image Converter",
 			"author": "PixlCore",
 			"description": "Convert image formats, resize, crop, and add effects using the canvas-plus library.",
-			"versions": ["v1.0.4", "v1.0.3", "v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.4",
+				"v1.0.3",
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Image", "Conversion"],
-			"requires": [ "docker" ],
+			"tags": [
+				"Image",
+				"Conversion"
+			],
+			"requires": [
+				"docker"
+			],
 			"created": "2026-05-25",
 			"modified": "2026-08-13"
 		},
@@ -219,12 +370,21 @@
 			"title": "Video Toolkit",
 			"author": "PixlCore",
 			"description": "Render, transform, mux, and transcode video files using FFmpeg and a JSON filter specification.",
-			"versions": ["v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Video", "Conversion", "FFmpeg"],
-			"requires": [ "docker" ],
+			"tags": [
+				"Video",
+				"Conversion",
+				"FFmpeg"
+			],
+			"requires": [
+				"docker"
+			],
 			"created": "2026-05-25",
 			"modified": "2026-07-03"
 		},
@@ -233,12 +393,21 @@
 			"title": "FTP Transfer",
 			"author": "PixlCore",
 			"description": "Upload, download, list, and delete files on FTP and FTPS servers.",
-			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["FTP", "FTPS"],
-			"requires": [ "npx" ],
+			"tags": [
+				"FTP",
+				"FTPS"
+			],
+			"requires": [
+				"npx"
+			],
 			"created": "2026-05-28",
 			"modified": "2026-06-10"
 		},
@@ -247,12 +416,21 @@
 			"title": "SFTP Transfer",
 			"author": "PixlCore",
 			"description": "Upload, download, list, and delete files on SFTP servers.",
-			"versions": ["v1.0.2", "v1.0.1", "v1.0.0"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["SFTP", "SSH"],
-			"requires": [ "npx" ],
+			"tags": [
+				"SFTP",
+				"SSH"
+			],
+			"requires": [
+				"npx"
+			],
 			"created": "2026-05-28",
 			"modified": "2026-06-10"
 		},
@@ -261,12 +439,19 @@
 			"title": "Google Sheets",
 			"author": "PixlCore",
 			"description": "Read, search, append, update, clear, and delete Google Sheets rows and ranges.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Google", "Spreadsheets"],
-			"requires": [ "npx" ],
+			"tags": [
+				"Google",
+				"Spreadsheets"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"GOOGLE_SERVICE_ACCOUNT_JSON": ""
 			},
@@ -278,12 +463,19 @@
 			"title": "iCal Blackout Calendar",
 			"author": "PixlCore",
 			"description": "Use an iCal file to block scheduled jobs during events, or only allow jobs during events.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "scheduler",
 			"license": "MIT",
-			"tags": ["Calendar", "iCal"],
-			"requires": [ "npx" ],
+			"tags": [
+				"Calendar",
+				"iCal"
+			],
+			"requires": [
+				"npx"
+			],
 			"created": "2026-06-30",
 			"modified": "2026-06-30"
 		},
@@ -292,12 +484,19 @@
 			"title": "IMAP Email Trigger",
 			"author": "PixlCore",
 			"description": "Watch an IMAP mailbox for matching email, launch jobs, and pass email data plus attachments to the job input.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "scheduler",
 			"license": "MIT",
-			"tags": ["IMAP", "Email"],
-			"requires": [ "npx" ],
+			"tags": [
+				"IMAP",
+				"Email"
+			],
+			"requires": [
+				"npx"
+			],
 			"env": {
 				"IMAP_PASSWORD": ""
 			},
@@ -309,11 +508,16 @@
 			"title": "LogAlert",
 			"author": "PixlCore",
 			"description": "Watch local log files for new matching lines and route alerts through xyOps.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Monitoring", "Alerting"],
+			"tags": [
+				"Monitoring",
+				"Alerting"
+			],
 			"requires": [],
 			"created": "2026-08-23",
 			"modified": "2026-08-23"
@@ -323,12 +527,20 @@
 			"title": "On Holiday",
 			"author": "UNICodehORN",
 			"description": "Skip or execute xyOps schedules on public holidays using OpenHolidaysAPI.",
-			"versions": ["v1.0.3"],
+			"versions": [
+				"v1.0.3"
+			],
 			"type": "plugin",
 			"plugin_type": "scheduler",
 			"license": "MIT",
-			"tags": ["Holiday", "Christmas", "Easter"],
-			"requires": ["uvx"],
+			"tags": [
+				"Holiday",
+				"Christmas",
+				"Easter"
+			],
+			"requires": [
+				"uvx"
+			],
 			"created": "2026-01-07",
 			"modified": "2026-01-11"
 		},
@@ -337,12 +549,20 @@
 			"title": "Sun Trigger",
 			"author": "UNICodehORN",
 			"description": "Execute xyOps schedules based on sun using public sunset API.",
-			"versions": ["v1.0.2"],
+			"versions": [
+				"v1.0.2"
+			],
 			"type": "plugin",
 			"plugin_type": "scheduler",
 			"license": "MIT",
-			"tags": ["Sunset", "Sunrise", "Smarthome"],
-			"requires": ["uvx"],
+			"tags": [
+				"Sunset",
+				"Sunrise",
+				"Smarthome"
+			],
+			"requires": [
+				"uvx"
+			],
 			"created": "2026-01-07",
 			"modified": "2026-01-11"
 		},
@@ -351,12 +571,27 @@
 			"title": "PowerShell Plugin",
 			"author": "Nick Dollimount",
 			"description": "Execute PowerShell script code using xyOps events.",
-			"versions": ["v1.4.14","v1.4.12","v1.4.11","v1.4.10","v1.4.9","v1.4.8","v1.4.7","v1.4.6","v1.4.5","v1.4.4"],
+			"versions": [
+				"v1.4.14",
+				"v1.4.12",
+				"v1.4.11",
+				"v1.4.10",
+				"v1.4.9",
+				"v1.4.8",
+				"v1.4.7",
+				"v1.4.6",
+				"v1.4.5",
+				"v1.4.4"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["PowerShell"],
-			"requires": ["powershell"],
+			"tags": [
+				"PowerShell"
+			],
+			"requires": [
+				"powershell"
+			],
 			"created": "2026-01-18",
 			"modified": "2026-08-22"
 		},
@@ -365,12 +600,21 @@
 			"title": "Join Notification",
 			"author": "Nick Dollimount",
 			"description": "Sends a notification to your device via the Join API.",
-			"versions": ["v1.0.2","v1.0.1","v1.0.0"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1",
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["PowerShell","Join"],
-			"requires": ["powershell"],
+			"tags": [
+				"PowerShell",
+				"Join"
+			],
+			"requires": [
+				"powershell"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-23"
 		},
@@ -379,12 +623,22 @@
 			"title": "Pushover Notification",
 			"author": "Nick Dollimount",
 			"description": "Sends a notification to your device via the Pushover API.",
-			"versions": ["v1.1.1","v1.1.0","v1.0.2","v1.0.1"],
+			"versions": [
+				"v1.1.1",
+				"v1.1.0",
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["PowerShell","Pushover"],
-			"requires": ["powershell"],
+			"tags": [
+				"PowerShell",
+				"Pushover"
+			],
+			"requires": [
+				"powershell"
+			],
 			"created": "2026-02-23",
 			"modified": "2026-03-03"
 		},
@@ -393,12 +647,24 @@
 			"title": "MSSQL Query",
 			"author": "Tim Alderweireldt",
 			"description": "Execute SQL queries against Microsoft SQL Server databases using PowerShell and dbatools. Supports encrypted connections, certificate validation, CSV/JSON export, and automatic row limiting.",
-			"versions": ["v1.0.2", "v1.0.1"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["MSSQL", "SQL Server", "Database", "Query", "PowerShell", "dbatools"],
-			"requires": ["pwsh"],
+			"tags": [
+				"MSSQL",
+				"SQL Server",
+				"Database",
+				"Query",
+				"PowerShell",
+				"dbatools"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-01-31",
 			"modified": "2026-02-08"
 		},
@@ -407,12 +673,26 @@
 			"title": "MSSQL Information",
 			"author": "Tim Alderweireldt",
 			"description": "Collect comprehensive information from Microsoft SQL Server instances including server details, Availability Groups, database inventory, and user accounts. Outputs multiple tables and structured JSON for workflows.",
-			"versions": ["v1.0.2", "v1.0.1"],
+			"versions": [
+				"v1.0.2",
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["MSSQL", "SQL Server", "Database", "Inventory", "Monitoring", "Availability Groups", "PowerShell", "dbatools"],
-			"requires": ["pwsh"],
+			"tags": [
+				"MSSQL",
+				"SQL Server",
+				"Database",
+				"Inventory",
+				"Monitoring",
+				"Availability Groups",
+				"PowerShell",
+				"dbatools"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-01-31",
 			"modified": "2026-02-08"
 		},
@@ -421,12 +701,19 @@
 			"title": "VMware VM Operations",
 			"author": "Tim Alderweireldt",
 			"description": "Perform operations on VMware virtual machines such as powering on/off, taking snapshots, and retrieving VM information.",
-			"versions": ["v1.0.1"],
+			"versions": [
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["VMware", "Virtual Machine"],
-			"requires": ["pwsh"],
+			"tags": [
+				"VMware",
+				"Virtual Machine"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-03",
 			"modified": "2026-02-07"
 		},
@@ -435,12 +722,24 @@
 			"title": "MSSQL Health Check",
 			"author": "Tim Alderweireldt",
 			"description": "Perform comprehensive health checks on Microsoft SQL Server instances.",
-			"versions": ["v1.0.1"],
+			"versions": [
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["MSSQL", "SQL Server", "Database", "Health Check", "Monitoring", "PowerShell", "dbatools"],
-			"requires": ["pwsh"],
+			"tags": [
+				"MSSQL",
+				"SQL Server",
+				"Database",
+				"Health Check",
+				"Monitoring",
+				"PowerShell",
+				"dbatools"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-06",
 			"modified": "2026-02-07"
 		},
@@ -449,12 +748,20 @@
 			"title": "File Export",
 			"author": "Tim Alderweireldt",
 			"description": "A versatile xyOps Action Plugin that exports job output data to multiple file formats including JSON, CSV, HTML, XML, Markdown, YAML, Plain Text, Excel, PDF, and HL7 healthcare formats and with powerful data transformation capabilities",
-			"versions": ["v1.4.1"],
+			"versions": [
+				"v1.4.1"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["File", "Export"],
-			"requires": ["npx", "git"],
+			"tags": [
+				"File",
+				"Export"
+			],
+			"requires": [
+				"npx",
+				"git"
+			],
 			"created": "2026-02-07",
 			"modified": "2026-02-08"
 		},
@@ -463,12 +770,19 @@
 			"title": "Toolbox",
 			"author": "Tim Alderweireldt",
 			"description": "A versatile xyOps Event Plugin containing a collection of utility tools for generating tokens, UUIDs, hashes, QR codes, validating IBANs, and generating secure passphrases.",
-			"versions": ["v2.3.0"],
+			"versions": [
+				"v2.3.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Utility", "Tools"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Utility",
+				"Tools"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-08",
 			"modified": "2026-02-16"
 		},
@@ -477,12 +791,20 @@
 			"title": "Healthcare",
 			"author": "Tim Alderweireldt",
 			"description": "An xyOps Event Plugin for healthcare interoperability, providing HL7 v2.5.1 message generation and parsing tools.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Healthcare", "HL7", "Interoperability"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Healthcare",
+				"HL7",
+				"Interoperability"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-16",
 			"modified": "2026-02-16"
 		},
@@ -491,12 +813,20 @@
 			"title": "Network utilities",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive xyOps Event Plugin containing 23 network diagnostic and analysis tools for network testing, DNS resolution, certificate checking, email security validation, SMTP testing, and more.",
-			"versions": ["v1.3.0"],
+			"versions": [
+				"v1.3.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Network", "Utilities", "Diagnostics"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Network",
+				"Utilities",
+				"Diagnostics"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-16",
 			"modified": "2026-02-16"
 		},
@@ -505,12 +835,20 @@
 			"title": "Confluence Publisher",
 			"author": "Tim Alderweireldt",
 			"description": "A powerful xyOps Action Plugin that publishes Markdown content to Confluence Cloud pages with automatic ADF (Atlassian Document Format) conversion and image upload support.",
-			"versions": ["v1.2.2"],
+			"versions": [
+				"v1.2.2"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["Confluence", "Atlassian", "Documentation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Confluence",
+				"Atlassian",
+				"Documentation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-17",
 			"modified": "2026-02-20"
 		},
@@ -519,12 +857,20 @@
 			"title": "Syslog Sender",
 			"author": "Tim Alderweireldt",
 			"description": "A powerful xyOps Action Plugin that sends messages to Syslog servers using UDP, TCP, or TLS protocols with support for both RFC 3164 (BSD/Legacy) and RFC 5424 (Modern) message formats.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["Syslog", "Logging", "Monitoring"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Syslog",
+				"Logging",
+				"Monitoring"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-17",
 			"modified": "2026-02-17"
 		},
@@ -533,12 +879,20 @@
 			"title": "Netbox IPAM",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive xyOps Event Plugin for managing IP Address Management (IPAM) in NetBox, including Prefixes, IP Addresses, VLANs, and VRFs.",
-			"versions": ["v1.3.0"],
+			"versions": [
+				"v1.3.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["NetBox", "IPAM", "Network Automation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"NetBox",
+				"IPAM",
+				"Network Automation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-20",
 			"modified": "2026-02-20"
 		},
@@ -547,12 +901,20 @@
 			"title": "Netbox DCIM",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive xyOps Event Plugin for managing Data Center Infrastructure Management (DCIM) in NetBox, including Devices, Device Types, Sites, Racks, and more.",
-			"versions": ["v1.3.0"],
+			"versions": [
+				"v1.3.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["NetBox", "DCIM", "Network Automation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"NetBox",
+				"DCIM",
+				"Network Automation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
 		},
@@ -561,12 +923,21 @@
 			"title": "FTP Upload",
 			"author": "Tim Alderweireldt",
 			"description": "Upload files to remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), or **SFTP** (SSH).",
-			"versions": ["v1.2.0"],
+			"versions": [
+				"v1.2.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["FTP", "FTPS", "SFTP", "File Transfer"],
-			"requires": ["pwsh"],
+			"tags": [
+				"FTP",
+				"FTPS",
+				"SFTP",
+				"File Transfer"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
 		},
@@ -575,12 +946,21 @@
 			"title": "FTP Download",
 			"author": "Tim Alderweireldt",
 			"description": "Download files from remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), or **SFTP** (SSH).",
-			"versions": ["v1.0.1"],
+			"versions": [
+				"v1.0.1"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["FTP", "FTPS", "SFTP", "File Transfer"],
-			"requires": ["pwsh"],
+			"tags": [
+				"FTP",
+				"FTPS",
+				"SFTP",
+				"File Transfer"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
 		},
@@ -589,12 +969,21 @@
 			"title": "FTP List",
 			"author": "Tim Alderweireldt",
 			"description": "List files on remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), or **SFTP** (SSH).",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["FTP", "FTPS", "SFTP", "File Transfer"],
-			"requires": ["pwsh"],
+			"tags": [
+				"FTP",
+				"FTPS",
+				"SFTP",
+				"File Transfer"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
 		},
@@ -603,12 +992,20 @@
 			"title": "Windows DNS",
 			"author": "Tim Alderweireldt",
 			"description": "Manage Microsoft Windows DNS Server records directly from xyOps.  Create, update, delete, and list DNS records including A, AAAA, CNAME, MX, TXT, SRV, and more.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Windows DNS", "DNS Management", "Network Automation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Windows DNS",
+				"DNS Management",
+				"Network Automation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-21",
 			"modified": "2026-02-21"
 		},
@@ -617,12 +1014,20 @@
 			"title": "Windows DHCP",
 			"author": "Tim Alderweireldt",
 			"description": "Manage Microsoft Windows DHCP Server directly from xyOps.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Windows DHCP", "DHCP Management", "Network Automation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Windows DHCP",
+				"DHCP Management",
+				"Network Automation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -631,12 +1036,20 @@
 			"title": "Checkmk",
 			"author": "Tim Alderweireldt",
 			"description": "An xyOps Event Plugin for managing hosts in Checkmk monitoring via the REST API. List, add, and remove hosts — with automatic service discovery and change activation.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Checkmk", "Monitoring", "Network Automation"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Checkmk",
+				"Monitoring",
+				"Network Automation"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -645,12 +1058,21 @@
 			"title": "Active Directory Info",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive toolset for Active Directory queries and reporting.",
-			"versions": ["v3.0.0"],
+			"versions": [
+				"v3.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Active Directory", "AD", "Reporting", "Queries"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Active Directory",
+				"AD",
+				"Reporting",
+				"Queries"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -659,12 +1081,21 @@
 			"title": "Active Directory Users",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive toolset for Active Directory user account management.  Create, update, delete, and list user accounts, manage group memberships, reset passwords, and more.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Active Directory", "AD", "Users", "Account Management"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Active Directory",
+				"AD",
+				"Users",
+				"Account Management"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -673,12 +1104,21 @@
 			"title": "Active Directory Structure",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive **toolset** for Active Directory OU and structure management.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Active Directory", "AD", "OU", "Structure Management"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Active Directory",
+				"AD",
+				"OU",
+				"Structure Management"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -687,12 +1127,21 @@
 			"title": "Mirth Socket",
 			"author": "Tim Alderweireldt",
 			"description": "Send HL7, JSON, or text data to a Mirth Connect server over TCP using the MLLP (Minimum Lower Layer Protocol) framing protocol.",
-			"versions": ["v1.1.0"],
+			"versions": [
+				"v1.1.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Mirth", "MLLP", "HL7", "TCP"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Mirth",
+				"MLLP",
+				"HL7",
+				"TCP"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-22"
 		},
@@ -701,12 +1150,21 @@
 			"title": "Active Directory Groups",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive toolset for Active Directory group management.  Create, update, delete, and list groups, manage group memberships, and more.",
-			"versions": ["v1.0.2"],
+			"versions": [
+				"v1.0.2"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Active Directory", "AD", "Groups", "Group Management"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Active Directory",
+				"AD",
+				"Groups",
+				"Group Management"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-23"
 		},
@@ -715,12 +1173,21 @@
 			"title": "Active Directory Computers",
 			"author": "Tim Alderweireldt",
 			"description": "A comprehensive toolset for Active Directory computer account management.  Create, update, delete, and list computer accounts, manage group memberships, and more.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Active Directory", "AD", "Computers", "Computer Account Management"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Active Directory",
+				"AD",
+				"Computers",
+				"Computer Account Management"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-22",
 			"modified": "2026-02-23"
 		},
@@ -729,12 +1196,20 @@
 			"title": "Veeam Backup Status",
 			"author": "Tim Alderweireldt",
 			"description": "A event plugin for monitoring Veeam Backup & Replication job status.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "event",
 			"license": "MIT",
-			"tags": ["Veeam", "Backup", "Monitoring"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Veeam",
+				"Backup",
+				"Monitoring"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-24",
 			"modified": "2026-02-24"
 		},
@@ -743,12 +1218,20 @@
 			"title": "Tim's Git",
 			"author": "Tim Alderweireldt",
 			"description": "Pull and push Git repositories on/from the xyOps conductor server. This is an action plugin with an operation selector — use it to clone/pull repos to a local path, or stage, commit and push changes back to a remote.",
-			"versions": ["v1.0.0"],
+			"versions": [
+				"v1.0.0"
+			],
 			"type": "plugin",
 			"plugin_type": "action",
 			"license": "MIT",
-			"tags": ["Git", "Version Control", "Repository Management"],
-			"requires": ["pwsh"],
+			"tags": [
+				"Git",
+				"Version Control",
+				"Repository Management"
+			],
+			"requires": [
+				"pwsh"
+			],
 			"created": "2026-02-25",
 			"modified": "2026-02-25"
 		}
