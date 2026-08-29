@@ -523,6 +523,32 @@
 			"modified": "2026-08-23"
 		},
 		{
+			"id": "pixlcore/xyplug-ai-diagnosis",
+			"title": "AI Diagnosis",
+			"author": "PixlCore",
+			"description": "Investigate failed xyOps jobs and workflows with bounded, read-only AI analysis.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "plugin",
+			"plugin_type": "event",
+			"license": "MIT",
+			"tags": [
+				"AI",
+				"Diagnosis",
+				"SRE"
+			],
+			"requires": [
+				"npx"
+			],
+			"env": {
+				"XYOPS_API_KEY": "",
+				"AI_API_KEY": ""
+			},
+			"created": "2026-08-28",
+			"modified": "2026-08-28"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
