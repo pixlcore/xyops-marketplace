@@ -207,7 +207,7 @@
 		},
 		{
 			"id": "pixlcore/xyplug-s3",
-			"title": "S3 Toolbox",
+			"title": "S3 Transfer",
 			"author": "PixlCore",
 			"description": "Upload, download, move, copy, list, grep, and delete your files in S3 buckets.",
 			"versions": [
@@ -793,7 +793,7 @@
 		},
 		{
 			"id": "talder/xyops-toolbox",
-			"title": "Toolbox",
+			"title": "Tim's Toolbox",
 			"author": "Tim Alderweireldt",
 			"description": "A versatile xyOps Event Plugin containing a collection of utility tools for generating tokens, UUIDs, hashes, QR codes, validating IBANs, and generating secure passphrases.",
 			"versions": [
