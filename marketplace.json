@@ -598,6 +598,7 @@
 			"author": "Nick Dollimount",
 			"description": "Execute PowerShell script code using xyOps events.",
 			"versions": [
+				"v1.4.15",
 				"v1.4.14",
 				"v1.4.12",
 				"v1.4.11",
@@ -619,7 +620,7 @@
 				"powershell"
 			],
 			"created": "2026-01-18",
-			"modified": "2026-08-22"
+			"modified": "2026-09-20"
 		},
 		{
 			"id": "nickdollimount/xyplug-join-notification",
