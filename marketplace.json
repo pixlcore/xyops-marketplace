@@ -549,6 +549,24 @@
 			"modified": "2026-08-28"
 		},
 		{
+			"id": "pixlcore/xyext-selfhst-icons",
+			"title": "selfh.st Icon Pack",
+			"author": "PixlCore",
+			"description": "Add 2,000+ icons from the selfh.st Icon Pack into xyOps.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "extension",
+			"license": "MIT",
+			"tags": [
+				"Extension",
+				"Icons"
+			],
+			"requires": [],
+			"created": "2026-09-30",
+			"modified": "2026-09-30"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
