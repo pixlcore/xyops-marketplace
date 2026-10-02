@@ -211,6 +211,7 @@
 			"author": "PixlCore",
 			"description": "Upload, download, move, copy, list, grep, and delete your files in S3 buckets.",
 			"versions": [
+				"v1.0.5",
 				"v1.0.4",
 				"v1.0.3",
 				"v1.0.2",
@@ -232,7 +233,7 @@
 				"AWS_SECRET_ACCESS_KEY": ""
 			},
 			"created": "2026-03-26",
-			"modified": "2026-07-03"
+			"modified": "2026-10-01"
 		},
 		{
 			"id": "pixlcore/xyplug-ssh",
