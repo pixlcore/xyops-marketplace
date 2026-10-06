@@ -1308,6 +1308,22 @@
 			},
 			"created": "2026-08-28",
 			"modified": "2026-09-07"
+		},
+		{
+		   "id": "fbartels/xyplug-target-online-gate",
+		   "title": "Target Online Gate",
+		   "author": "9wd - Felix Bartels",
+		   "description": "Skip scheduled jobs while all event targets are offline. Lets one job wait in the queue so the work runs as soon as a target comes back.",
+		   "versions": ["v1.0.0"],
+		   "type": "plugin",
+		   "plugin_type": "scheduler",
+		   "license": "MIT",
+		   "tags": ["Trigger", "Servers", "Offline", "Queue"],
+		   "requires": [],
+		   "env": { "XYOPS_API_KEY": "" },
+		   "created": "2026-10-06",
+		   "modified": "2026-10-06"
 		}
+
 	]
 }
