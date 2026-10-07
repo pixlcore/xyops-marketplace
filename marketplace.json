@@ -1323,7 +1323,33 @@
 		   "env": { "XYOPS_API_KEY": "" },
 		   "created": "2026-10-06",
 		   "modified": "2026-10-06"
+		},
+		{
+			"id": "signl4/xyplug-signl4",
+			"title": "SIGNL4",
+			"author": "Derdack GmbH",
+			"description": "Send xyOps job and event results to SIGNL4 for reliable mobile alerting, on-call routing, acknowledgements, automated escalation, and alert resolution.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "plugin",
+			"plugin_type": "action",
+			"license": "MIT",
+			"tags": [
+				"SIGNL4",
+				"Alerting",
+				"On-Call",
+				"Incident Response"
+			],
+			"requires": [
+				"npx",
+				"git"
+			],
+			"env": {
+				"SIGNL4_TEAM_SECRET": ""
+			},
+			"created": "2026-10-07",
+			"modified": "2026-10-07"
 		}
-
 	]
 }
