@@ -1350,6 +1350,21 @@
 			},
 			"created": "2026-10-07",
 			"modified": "2026-10-07"
+		},
+		{
+		  "id": "epiksel/xyplug-telegram-alerts",
+		  "title": "Telegram Notify",
+		  "author": "Ekrem KAYA",
+		  "description": "Send xyOps alert and job notifications to Telegram via bot.",
+		  "versions": ["v1.0.0"],
+		  "type": "plugin",
+		  "plugin_type": "action",
+		  "license": "MIT",
+		  "tags": ["Telegram", "Alerts", "Notifications"],
+		  "requires": ["npx", "git"],
+		  "env": { "TELEGRAM_BOT_TOKEN": "" },
+		  "created": "2026-10-29",
+		  "modified": "2026-10-29"
 		}
 	]
 }
