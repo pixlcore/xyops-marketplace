@@ -569,6 +569,24 @@
 			"modified": "2026-09-30"
 		},
 		{
+			"id": "pixlcore/xyext-mcp",
+			"title": "xyOps MCP Server",
+			"author": "PixlCore",
+			"description": "Connect AI assistants to xyOps with an HTTP MCP server.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "extension",
+			"license": "MIT",
+			"tags": [
+				"Extension",
+				"MCP"
+			],
+			"requires": [],
+			"created": "2026-10-29",
+			"modified": "2026-10-29"
+		},
+		{
 			"id": "UNICodehORN/xyplug-on-holiday",
 			"title": "On Holiday",
 			"author": "UNICodehORN",
