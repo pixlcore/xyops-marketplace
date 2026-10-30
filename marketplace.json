@@ -375,6 +375,7 @@
 			"author": "PixlCore",
 			"description": "Render, transform, mux, and transcode video files using FFmpeg and a JSON filter specification.",
 			"versions": [
+				"v1.0.2",
 				"v1.0.1",
 				"v1.0.0"
 			],
@@ -390,7 +391,7 @@
 				"docker"
 			],
 			"created": "2026-05-25",
-			"modified": "2026-07-03"
+			"modified": "2026-10-30"
 		},
 		{
 			"id": "pixlcore/xyplug-ftp",
