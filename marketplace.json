@@ -556,6 +556,7 @@
 			"author": "PixlCore",
 			"description": "Add 2,000+ icons from the selfh.st Icon Pack into xyOps.",
 			"versions": [
+				"v1.0.2",
 				"v1.0.1"
 			],
 			"type": "extension",
@@ -566,7 +567,7 @@
 			],
 			"requires": [],
 			"created": "2026-09-30",
-			"modified": "2026-09-30"
+			"modified": "2026-10-29"
 		},
 		{
 			"id": "pixlcore/xyext-mcp",
@@ -574,6 +575,7 @@
 			"author": "PixlCore",
 			"description": "Connect AI assistants to xyOps with an HTTP MCP server.",
 			"versions": [
+				"v1.0.1",
 				"v1.0.0"
 			],
 			"type": "extension",
