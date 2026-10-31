@@ -36,7 +36,7 @@
 			"author": "PixlCore",
 			"description": "An AI-powered browser automation framework for xyOps.  Drive a headless browser with simple English instructions, take actions, extract data, capture network requests, and even record a video of the whole session.",
 			"versions": [
-				"v1.1.0",
+				"v1.1.1",
 				"v1.0.20",
 				"v1.0.19",
 				"v1.0.18",
