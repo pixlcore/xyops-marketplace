@@ -189,7 +189,7 @@
 			"author": "PixlCore",
 			"description": "Transcribe audio files into text, subtitles, and structured JSON using whisper.cpp with a model baked directly into the Docker image.",
 			"versions": [
-				"v1.0.3",
+				"v1.0.4",
 				"v1.0.2",
 				"v1.0.1",
 				"v1.0.0"
