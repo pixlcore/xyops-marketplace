@@ -580,6 +580,7 @@
 			"author": "PixlCore",
 			"description": "Connect AI assistants to xyOps with an HTTP MCP server.",
 			"versions": [
+				"v1.0.2",
 				"v1.0.1",
 				"v1.0.0"
 			],
@@ -591,7 +592,7 @@
 			],
 			"requires": [],
 			"created": "2026-10-29",
-			"modified": "2026-10-29"
+			"modified": "2026-10-30"
 		},
 		{
 			"id": "UNICodehORN/xyplug-on-holiday",
