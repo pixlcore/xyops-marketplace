@@ -580,7 +580,7 @@
 			"author": "PixlCore",
 			"description": "Connect AI assistants to xyOps with an HTTP MCP server.",
 			"versions": [
-				"v1.0.2",
+				"v1.0.3",
 				"v1.0.1",
 				"v1.0.0"
 			],
