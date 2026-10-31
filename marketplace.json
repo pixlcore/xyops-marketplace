@@ -102,8 +102,9 @@
 			"id": "pixlcore/xyplug-extract",
 			"title": "Extract Anything",
 			"author": "PixlCore",
-			"description": "Extract structured data out of any file, using the amazing Kreuzberg library.",
+			"description": "Extract structured data out of any file, using the amazing Xberg library.",
 			"versions": [
+				"v3.0.0",
 				"v2.0.6",
 				"v2.0.5",
 				"v2.0.4",
@@ -119,13 +120,13 @@
 			"tags": [
 				"Extract",
 				"OCR",
-				"Kreuzberg"
+				"Xberg"
 			],
 			"requires": [
 				"docker"
 			],
 			"created": "2026-01-11",
-			"modified": "2026-07-03"
+			"modified": "2026-10-30"
 		},
 		{
 			"id": "pixlcore/xyplug-weather",
