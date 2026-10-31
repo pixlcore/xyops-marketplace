@@ -185,10 +185,11 @@
 		},
 		{
 			"id": "pixlcore/xyplug-whisper",
-			"title": "Whisper Transcription",
+			"title": "Offline Whisper",
 			"author": "PixlCore",
 			"description": "Transcribe audio files into text, subtitles, and structured JSON using whisper.cpp with a model baked directly into the Docker image.",
 			"versions": [
+				"v1.0.3",
 				"v1.0.2",
 				"v1.0.1",
 				"v1.0.0"
@@ -198,6 +199,8 @@
 			"license": "MIT",
 			"tags": [
 				"AI",
+				"Local",
+				"Offline",
 				"Whisper",
 				"Transcription"
 			],
@@ -205,7 +208,7 @@
 				"docker"
 			],
 			"created": "2026-03-25",
-			"modified": "2026-07-03"
+			"modified": "2026-10-30"
 		},
 		{
 			"id": "pixlcore/xyplug-s3",
