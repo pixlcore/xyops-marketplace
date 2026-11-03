@@ -647,6 +647,7 @@
 			"author": "Nick Dollimount",
 			"description": "Execute PowerShell script code using xyOps events.",
 			"versions": [
+				"v1.5.0",
 				"v1.4.15",
 				"v1.4.14",
 				"v1.4.12",
@@ -669,7 +670,7 @@
 				"powershell"
 			],
 			"created": "2026-01-18",
-			"modified": "2026-09-20"
+			"modified": "2026-11-03"
 		},
 		{
 			"id": "nickdollimount/xyplug-join-notification",
@@ -1339,19 +1340,28 @@
 			"modified": "2026-09-07"
 		},
 		{
-		   "id": "fbartels/xyplug-target-online-gate",
-		   "title": "Target Online Gate",
-		   "author": "9wd - Felix Bartels",
-		   "description": "Skip scheduled jobs while all event targets are offline. Lets one job wait in the queue so the work runs as soon as a target comes back.",
-		   "versions": ["v1.0.0"],
-		   "type": "plugin",
-		   "plugin_type": "scheduler",
-		   "license": "MIT",
-		   "tags": ["Trigger", "Servers", "Offline", "Queue"],
-		   "requires": [],
-		   "env": { "XYOPS_API_KEY": "" },
-		   "created": "2026-10-06",
-		   "modified": "2026-10-06"
+			"id": "fbartels/xyplug-target-online-gate",
+			"title": "Target Online Gate",
+			"author": "9wd - Felix Bartels",
+			"description": "Skip scheduled jobs while all event targets are offline. Lets one job wait in the queue so the work runs as soon as a target comes back.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "plugin",
+			"plugin_type": "scheduler",
+			"license": "MIT",
+			"tags": [
+				"Trigger",
+				"Servers",
+				"Offline",
+				"Queue"
+			],
+			"requires": [],
+			"env": {
+				"XYOPS_API_KEY": ""
+			},
+			"created": "2026-10-06",
+			"modified": "2026-10-06"
 		},
 		{
 			"id": "signl4/xyplug-signl4",
@@ -1381,19 +1391,30 @@
 			"modified": "2026-10-07"
 		},
 		{
-		  "id": "epiksel/xyplug-telegram-alerts",
-		  "title": "Telegram Notify",
-		  "author": "Ekrem KAYA",
-		  "description": "Send xyOps alert and job notifications to Telegram via bot.",
-		  "versions": ["v1.0.0"],
-		  "type": "plugin",
-		  "plugin_type": "action",
-		  "license": "MIT",
-		  "tags": ["Telegram", "Alerts", "Notifications"],
-		  "requires": ["npx", "git"],
-		  "env": { "TELEGRAM_BOT_TOKEN": "" },
-		  "created": "2026-10-29",
-		  "modified": "2026-10-29"
+			"id": "epiksel/xyplug-telegram-alerts",
+			"title": "Telegram Notify",
+			"author": "Ekrem KAYA",
+			"description": "Send xyOps alert and job notifications to Telegram via bot.",
+			"versions": [
+				"v1.0.0"
+			],
+			"type": "plugin",
+			"plugin_type": "action",
+			"license": "MIT",
+			"tags": [
+				"Telegram",
+				"Alerts",
+				"Notifications"
+			],
+			"requires": [
+				"npx",
+				"git"
+			],
+			"env": {
+				"TELEGRAM_BOT_TOKEN": ""
+			},
+			"created": "2026-10-29",
+			"modified": "2026-10-29"
 		}
 	]
 }
