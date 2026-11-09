@@ -299,6 +299,7 @@
 			"author": "PixlCore",
 			"description": "Manage all your system packages using the excellent meta-package-manager project.",
 			"versions": [
+				"v1.0.12",
 				"v1.0.11",
 				"v1.0.10",
 				"v1.0.9",
@@ -320,7 +321,7 @@
 			],
 			"requires": [],
 			"created": "2026-04-27",
-			"modified": "2026-10-30"
+			"modified": "2026-11-09"
 		},
 		{
 			"id": "pixlcore/xyplug-eleven",
