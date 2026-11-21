@@ -650,6 +650,7 @@
 			"author": "Nick Dollimount",
 			"description": "Execute PowerShell script code using xyOps events.",
 			"versions": [
+				"v1.6.0",
 				"v1.5.0",
 				"v1.4.15",
 				"v1.4.14",
