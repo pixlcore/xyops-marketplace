@@ -74,6 +74,7 @@
 			"author": "PixlCore",
 			"description": "An AI plugin which lets you prompt any AI provider and LLM, including local models, and return the result.",
 			"versions": [
+				"v1.0.11",
 				"v1.0.10",
 				"v1.0.9",
 				"v1.0.8",
@@ -99,7 +100,7 @@
 				"AI_API_KEY": ""
 			},
 			"created": "2026-01-10",
-			"modified": "2026-06-28"
+			"modified": "2026-11-24"
 		},
 		{
 			"id": "pixlcore/xyplug-extract",
