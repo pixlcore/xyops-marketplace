@@ -543,6 +543,7 @@
 			"author": "PixlCore",
 			"description": "Investigate failed xyOps jobs and workflows with bounded, read-only AI analysis.",
 			"versions": [
+				"v1.0.2",
 				"v1.0.0"
 			],
 			"type": "plugin",
@@ -561,7 +562,7 @@
 				"AI_API_KEY": ""
 			},
 			"created": "2026-08-28",
-			"modified": "2026-08-28"
+			"modified": "2026-11-27"
 		},
 		{
 			"id": "pixlcore/xyext-selfhst-icons",
